@@ -1,5 +1,6 @@
 import React from 'react';
 import FormCreateProduct from '../components/Formulario/FormCreateProduct';
+import './Create.css';
 
 const CreateProduct = () => {
     return (
